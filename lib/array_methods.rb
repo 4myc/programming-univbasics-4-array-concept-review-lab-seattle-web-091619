@@ -4,15 +4,15 @@ end
 
 def find_max_value(array)
   scale = [2,3,4,5]
-  [2,3,4,5].max
+  scale.max
   scale_2 = [6,5,4,3]
-  [6,5,4,3].max
+  scale_2.max
   hill = [1,2,3,4,5,4,3,2,1]
-  [1,2,3,4,5,4,3,2,1].max
+  hill.max
   valley = [5,4,3,2,1,0,1,2,3,4,5]\
-  [5,4,3,2,1,0,1,2,3,4,5].max
+  valley.max
   zig_zag = [500,4,1000,5,250]
-  [500,4,1000,5,250].max
+  zig_zag.max
   
   
 end
